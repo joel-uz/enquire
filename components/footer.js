@@ -40,7 +40,6 @@ export default function Footer() {
                 <span className={styles.external_links}>STATS</span> 
             </div>
 
-            <div className={styles.mobile_view}>
             <div className={styles.third_box}>
                 <span className={styles.text}>DONATE</span>
                 <span className={styles.text}>www.patreon.com/enquire</span>
@@ -53,7 +52,7 @@ export default function Footer() {
                 <span className={styles.external_links}>REPORT</span>
                 <span className={styles.external_links}>COMMUNITY GUIDELINES</span> 
             </div> 
-            </div>   
+            
         </div>
         <br/>
         <div className={styles.ruler_combo}>
